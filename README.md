@@ -1,2 +1,5 @@
 # hello-world
-This project about greeting.
+
+Hi!
+
+I'm Nickolay Osipov. I'm a student from MIPT.
